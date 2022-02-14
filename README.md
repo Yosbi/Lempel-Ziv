@@ -4,8 +4,8 @@ Baby version of the Lempel-Ziv encoding and decoding implemented in python
 
 ## Usage
 
-To compress: python compress.py inputFile outputFile
-To decompress: python decompress.py inputFile outputFile
+- To compress: python compress.py inputFile outputFile
+- To decompress: python decompress.py inputFile outputFile
 
 
 ## License
